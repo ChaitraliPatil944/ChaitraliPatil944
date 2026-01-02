@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm @ChaitraliPatil
 
-<!--
-**ChaitraliPatil944/ChaitraliPatil944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 👀 I’m interested in Software Development, Machine Learning, and solving real-world problems  
+• 🌱 I’m currently learning Data Science, Machine Learning, and Deep Learning  
+• 🧠 I enjoy building practical projects that have real-world impact  
+• 🤝 I’m open to collaborating on meaningful tech and AI-based projects  
+• 🚀 I believe in learning by building, experimenting, and improving continuously  
 
-Here are some ideas to get you started:
+My attitude towards technology is:  
+"Driven by curiosity and grounded in real-world problem solving."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring how software and AI can solve real-life problems efficiently.  
+As a Computer Engineering student, I focus on writing clean code, understanding core concepts deeply,  
+and building projects that are practical, scalable, and impactful.
+
+I believe consistency, curiosity, and hands-on experience are the keys to becoming a better engineer.
+
+📬 Reach me at: chaitralipatil944@gmail.com  
+💬 Always open to discussions, learning, and growth
+
