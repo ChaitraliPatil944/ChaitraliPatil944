@@ -24,9 +24,9 @@
 
 📧 Email: **[chaitralipatil944@gmail.com](mailto:chaitralipatil944@gmail.com)**
 
-💼 LinkedIn: *Add Your LinkedIn Profile Link Here*
+💼 LinkedIn: **[Add Your LinkedIn Profile Link Here](https://www.linkedin.com/in/chaitrali-patil-07105929a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
 
-🌐 Portfolio: *Add Portfolio Link Here*
+
 
 ---
 
